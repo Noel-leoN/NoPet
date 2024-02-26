@@ -31,7 +31,7 @@ Place the `NoPet.dll` file in BepInEx `Plugins` folder.
 - It may be affects savegame data. Please use at your own risk.
 
 ## Credits
-  - Thanks to captain_on_coit for the Git repo template, and Jimmyokok for reference the code structure(.
+  - Thanks to captain_on_coit for the Git repo template, and Jimmyokok for reference the code structure.
   - [CSLBBS](https://www.cslbbs.net): Cities: Skylines 2 community ( in chinese ), for test and feedback.
 
 
