@@ -1,4 +1,4 @@
-# Cities Skylines 2 : No Pet
+# Cities Skylines 2 Mod : No Pet
 
 # Features
 Household pets now stay at home or outside the city.
