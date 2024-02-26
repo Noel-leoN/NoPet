@@ -1,6 +1,6 @@
 # Cities Skylines 2 : No Pet
 
-#Features
+# Features
 Household pets now stay at home or outside the city.
 
 # Instructions
@@ -11,13 +11,13 @@ Household pets now stay at home or outside the city.
 # Requirements
 - BepInEx 5.
 
-#Compatibility
+# Compatibility
 - Game Version
    - any version
 - Modified System
   - HouseholdPetSpawnSystem
 
-#Installation
+# Installation
 Place the `NoPet.dll` file in BepInEx `Plugins` folder.
 
 # Known Issues
