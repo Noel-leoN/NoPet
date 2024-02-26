@@ -28,7 +28,7 @@ Place the `NoPet.dll` file in BepInEx `Plugins` folder.
   - Initial build.
 
 ## Disclaimer
-- It may be affects savegame data. Please use at your own risk.
+- May be affect savegame data. Please use at your own risk.
 
 ## Credits
   - Thanks to captain_on_coit for the Git repo template, and Jimmyokok for reference the code structure.
