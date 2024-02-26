@@ -1,5 +1,4 @@
-# NoPet
-Cities Skylines 2 Mod Test : No Pet
+# Cities Skylines 2 : No Pet
 
 #Features
 Household pets now stay at home or outside the city.
@@ -34,3 +33,6 @@ Place the `NoPet.dll` file in BepInEx `Plugins` folder.
 ## Credits
   - Thanks to captain_on_coit for the Git repo template, and Jimmyokok for reference the code structure(.
   - [CSLBBS](https://www.cslbbs.net): Cities: Skylines 2 community ( in chinese ), for test and feedback.
+
+
+
