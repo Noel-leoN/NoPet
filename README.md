@@ -33,6 +33,7 @@ Place the `NoPet.dll` file in BepInEx `Plugins` folder.
 ## Credits
   - Thanks to captain_on_coit for the Git repo template, and Jimmyokok for reference the code structure.
   - Please report bugs and issues on [GitHub]([https://github.com/Noel-leoN/NoPet/issues])
+  - [CSLBBS](https://www.cslbbs.net): 天际线2中文社区
 
 
 
