@@ -5,7 +5,7 @@ Household pets now stay at home or outside the city.
 
 # Instructions
 - Simply disable household pets emerge so you can hardly see pets on the street anymore.
-- It needs to run for a period of time to take effect in a exist city, waiting for all pets that accompany their owners to come home. Some of them may disppear into neighbor cities.
+- It needs to run for a period of time to take effect in exist city, waiting for all pets that accompany their owners to come home. Some of them may disppear into neighbor cities.
 - Maybe slightly reduce CPU load.  There are too too too much dogs in the street :-)
 
 # Requirements
